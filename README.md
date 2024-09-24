@@ -6,22 +6,22 @@ To study and implement Exception Handling.
 ## THEORY:
 An exception is an unexpected problem that arises during the execution of a program our program terminates suddenly with some errors/issues. Exception occurs during the running of the program (runtime).
 
-## 1. Try in C++: 
+## 1. TRY IN C++: 
 
 The try keyword represents a block of code that may throw an exception placed inside the try block.
 It’s followed by one or more catch blocks. If an exception occurs, try block throws that exception.
 
-## 2. Catch in C++: 
+## 2. CATCH IN C++: 
 
 The catch statement represents a block of code that is executed when a particular exception is thrown from the try block.
 The code to handle the exception is written inside the catch block.
 
-## 3. Throw in C++:
+## 3. THROW IN C++:
 
 An exception in C++ can be thrown using the throw keyword.
 When a program encounters a throw statement, then it immediately terminates the current function and starts finding a matching catch block to handle the thrown exception.
   
-## 1. Division with Exception Handling: 
+## 1. DIVISION WITH EXCEPTION HANDLING: 
 
 ```
 //Name: Srihari Nair
@@ -58,7 +58,7 @@ int main()
 
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/dd79f20c-9e53-4fe3-830c-ddc8849202f2">
 
-## 2. Exception Handling for Age Validation:
+## 2. EXCEPTION HANDLING FOR AGE VALIDATION:
 
 ```
 //Name: Srihari Nair
